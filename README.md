@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋, I'm Ashutosh Mishra
+A passionate Software Engineer from India
+coding
 
-<!--
-**SohailDad/SohailDad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ashutosh-pmishra
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://linktr.ee/simplified_learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact I am funny😅
+
+Connect with me:
+ashutosh mishra simplified_learner simplified learner
+
+Languages and Tools:
+c cplusplus css3 html5 java javascript matlab mysql pandas python
+
+Support:
+simplified learner
+
+
+
+ashutosh-pmishra
+
+ ashutosh-pmishra
+
+ashutosh-pmishra
